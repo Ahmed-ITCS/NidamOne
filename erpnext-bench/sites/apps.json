@@ -1,0 +1,61 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "15.78.1"
+    },
+    "erpnext": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "36bc8fe3f0651a8cd83814739f576107b31678d7",
+            "branch": "version-15"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "15.76.0"
+    },
+    "business_theme_v14": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "263cd962341a632ee0efe186f41138d5242e9fd6",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    },
+    "whitetheme_v13": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "ea70dc789929913a5343ab566606347d2a67c73f",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "1.0.0"
+    },
+    "redtheme_v13b": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "07661bc0b1fb1c133d008b1416d19acf166e11f3",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 5,
+        "version": "0.0.1"
+    },
+    "zatca2024": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "3c1134bd651705a09fe45cc53b45006072068ed9",
+            "branch": "multi-company"
+        },
+        "required": [],
+        "idx": 6,
+        "version": "0.0.1"
+    }
+}

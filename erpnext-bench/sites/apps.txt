@@ -1,0 +1,6 @@
+frappe
+whitetheme_v13
+redtheme_v13b
+zatca2024
+business_theme_v14
+erpnext
